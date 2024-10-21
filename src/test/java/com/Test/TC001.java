@@ -6,6 +6,8 @@ public class TC001 {
 		// TODO Auto-generated method stub
 
 		System.out.println(" Hi, this is Group no. 3 ");
+
+		System.out.println("Test Case_001");
 		
 	}
 
